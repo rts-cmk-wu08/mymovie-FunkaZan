@@ -1,0 +1,144 @@
+body {
+  position: relative;
+  left: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+.flexitems {
+  display: inline-flex;
+}
+
+.right-flexitems {
+  text-decoration: none;
+  color: gray;
+  border: 2px solid gray;
+  padding: 0.3rem;
+  border-radius: 20px;
+  position: relative;
+  left: 10rem;
+}
+
+.buttonfixed {
+  position: relative;
+  left: 16rem;
+}
+
+.popular-text {
+  font-size: 1.2rem;
+  position: relative;
+  left: 1rem;
+  width: 10rem;
+}
+
+.img-a {
+  height: 10rem;
+  width: 7rem;
+  border-radius: 12px;
+}
+
+.gray-ptag {
+  color: gray;
+}
+
+span {
+  background-color: lightblue;
+  border-radius: 20px;
+}
+
+.genres {
+  padding: 0.2rem;
+}
+
+.genre__pill {
+  color: rgb(16, 173, 225);
+  padding: 0.2rem;
+}
+
+.popular {
+  height: 40rem;
+}
+
+.movie-article {
+  display: flex;
+}
+
+.article{
+  display: flex;
+  gap: 2rem;
+  width: 100rem;
+  border-radius: 20px;
+  overflow-x: scroll;
+}
+
+.xflex{
+  border-radius: 20px;
+  width: 9rem;
+  height: 13rem;
+}
+
+footer{
+  background-color: white;
+  width: 100%;
+  height: 5rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+.flexheaderelm{
+  display: flex;
+  background-color: white;
+}
+
+.nowshowing-seemore{
+  position: relative;
+  top: 3rem;
+  color: darkblue;
+}
+
+.MyMovies{
+  position: relative;
+  left: 6.5rem;
+  top: 20rem;
+  color: darkblue;
+}
+
+.colorchange{
+  color: darkblue;
+}
+
+.nowPlayingTxt{
+  font-size: 1rem;
+}
+
+.bolder{
+  font-weight: 800;
+}
+
+.fa{
+  font-size: 1.6rem;
+}
+
+i{
+  justify-content: space-between;
+  align-self: center;
+}
+
+.ticket {
+  rotate: 90deg;
+}
+
+.hero__img
+{
+  height: 120px;
+  width: 60px;
+}
+
+.cast__img {
+  height: 100px;
+}
+
+.card__infoContainer {
+  display: flex;
+}
